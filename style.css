@@ -101,7 +101,7 @@ a {
   font-weight: 700;
 }
 
-.user-profile:hover {
+.user-prof:hover {
   cursor: pointer;
   border-radius: 8px;
   background-color: #dbeafe;
